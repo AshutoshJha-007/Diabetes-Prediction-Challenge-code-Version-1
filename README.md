@@ -1,5 +1,5 @@
 # 🩺 Diabetes Prediction Challenge (Kaggle)
-
+Lab code - https://www.kaggle.com/code/iamtheoneaj/diabetes-prediction-challenge-code/edit/run/289280710
 **Playground Series – Season 5, Episode 12**
 
 This repository presents an **end-to-end applied machine learning solution** for the **Kaggle Diabetes Prediction Challenge**, built and iterated from a **production-oriented AI/ML engineering perspective**.
